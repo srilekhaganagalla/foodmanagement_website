@@ -1,0 +1,13 @@
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+.carousel-item {
+    width: 100%;
+    height: 50vw;
+    object-fit: contain;
+}
+.btn {
+    $btn-hover-bg-shade-amount:    15%;
+}
